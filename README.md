@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/SimplyPowfu">
-    <img src="https://github-readme-stats.vercel.app/api?username=lupo-nasone&show_icons=true&theme=github_dark&hide_title=true&bg_color=0A0F1F&icon_color=4CAF50&title_color=4CAF50" height="150" />
-  </a>
+<a href="https://github.com/oakoudad/badge42">
+  <img src="https://badge.mediaplus.ma/greenbinary/mafagina?1337Badge=off&UM6P=off" alt="mafagina's 42 stats" />
+</a>
 </div>
