@@ -10,14 +10,6 @@
 
 <br>
 
-```
-  ╭──────────────────────────────────────────────────────╮
-  │  > whoami                                            │
-  │  42 Florence student · full-stack dev                │
-  │  i break things in C, then rebuild them in Next.js   │
-  ╰──────────────────────────────────────────────────────╯
-```
-
 <table>
 <tr>
 <td valign="top" width="50%">
