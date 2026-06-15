@@ -55,9 +55,7 @@ export default ship();
 
 #### `~/projects`
 
-🛡️ **[Cerberus](https://github.com/lupo-nasone/cerberus)** — commissioned ops platform · *Next.js · Tailwind*
-🌍 **[Travel AI](https://github.com/lupo-nasone/travel)** — AI travel planner · *Next.js · Supabase · AI*
-🐚 **42 Common Core** — libft → minishell → cub3d → CPP modules · *57% done*
+coming soon...
 
 ---
 
